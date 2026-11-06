@@ -1,0 +1,10 @@
+# Godotin paikalliset tuontitiedostot ja editorin välimuisti
+/.godot/
+
+# Mahdolliset myöhemmin lisättävät C#- ja vientitulosteet
+/.mono/
+/exports/
+
+# Käyttöjärjestelmän metatiedostot
+.DS_Store
+Thumbs.db
